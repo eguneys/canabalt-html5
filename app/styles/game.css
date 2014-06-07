@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Flixel';
+    src: url('fonts/Flixel.ttf');
+}
+
+.flixel-font { font-family: 'Flixel' }

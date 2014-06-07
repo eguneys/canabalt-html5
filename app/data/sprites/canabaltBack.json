@@ -1,0 +1,20 @@
+{"frames": {
+
+"midground3.png":
+{
+	"frame": {"x":2,"y":2,"w":960,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":320},
+	"sourceSize": {"w":960,"h":320}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "canabaltBack.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ef521fc16d350ba6c034039cb6a45cd:2c6c2b11b272bc884da6f65f644c5de8:64b2c964cc481711968961924a72bbdb$"
+}
+}

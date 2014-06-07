@@ -1,0 +1,12 @@
+{
+  "name": "canabalt-jasmine",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "jquery": "~1.11.0",
+    "pixi": "~1.5.3",
+    "keydrown": "~1.1.0",
+    "howler": "~1.1.21"
+  },
+  "devDependencies": {}
+}
